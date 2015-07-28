@@ -1,5 +1,5 @@
 require.config({
-  baseUrl: './',
+  baseUrl: __4front__.staticAssetPath,
   paths: {
     kibana: 'index',
     // special utils

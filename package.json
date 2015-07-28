@@ -1,0 +1,13 @@
+{
+  "name": "kibana4-static",
+  "version": "0.0.1",
+  "_virtualApp": {
+    "appId": "E1xmLCxc",
+    "baseDir": "public",
+    "router": [
+      {
+        "module": "webpage"
+      }
+    ]
+  }
+}
